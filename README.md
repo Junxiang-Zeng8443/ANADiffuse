@@ -1,4 +1,4 @@
-# ANADiffuse!                                                                     ![输入图片说明](.gitee/image_fx_.jpg)[输入图片说明](.gitee/mylogo.png)
+# ANADiffuse                                                                 [输入图片说明](.gitee/mylogo.png)
 
 #### 介绍
 Evaluating the Realism of ANA HEp-2 Cell Images Synthesized Using Latent Diffusion Models: A Multi-center Visual Turing Test
