@@ -8,6 +8,8 @@ This repository contains supporting material of the publication "Evaluating the 
 
 Our program is registered at [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT06542783) (identifier, NCT06542783).
 
+Our Visual Turing Test platform is in the  https://turing.rednoble.net/
+
 #### ** A Quick Overview** 
 ![输入图片说明](.gitee/%E5%9B%BE%E7%89%871.png)
 
