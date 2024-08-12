@@ -1,11 +1,14 @@
 # ANADiffuse
+![输入图片说明](mylogo.png)
+
 
 #### Description
-Evaluating the Realism of ANA HEp-2 Cell Images Synthesized Using Latent Diffusion Models: A Multi-center Visual Turing Test
 
-#### Software Architecture
-Software architecture description
+This repository contains supporting material of the publication "> Evaluating the Realism of ANA HEp-2 Cell Images Synthesized Using Latent Diffusion Models: A Multi-center Visual Turing Test"
 
+#### Environment setup
+Create the ANADiffuse conda environment with the config file ANADiffuse.yml
+`conda env create --file=GLDM.yml`
 #### Installation
 
 1.  xxxx
