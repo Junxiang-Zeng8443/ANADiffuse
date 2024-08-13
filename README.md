@@ -1,5 +1,7 @@
 #  _**ANADiffuse**_ 
-![输入图片说明](mylogo.png)
+
+
+![mylogo2](https://github.com/user-attachments/assets/155746b7-a70f-4eb0-8b08-0cc09fd9e5a3)
 
 
 ####  **Description** 
